@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; SHOPPE</title>
+	<title>Products &#8211; SHOPPE</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://galaway.github.io/wp_shop</link>
 	<description>WELCOME SHOPPE</description>
 	<lastBuildDate>Sat, 19 Jun 2021 08:37:56 +0000</lastBuildDate>
-	<language>vi</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
