@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/diepquoc2301/feed/" rel="self" type="application/rss+xml" />
 	<link>https://galaway.github.io/buffetsieugiamgia</link>
 	<description>Chúc bạn một ngày tốt lành</description>
-	<lastBuildDate>Sat, 03 Jul 2021 09:33:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 10:03:48 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Chào mừng bạn đến với Shoppe Buffet siêu giảm giá</title>
-		<link>https://galaway.github.io/buffetsieugiamgia/u-giam-gia-cua-chung-toi-voi-hang-loat-voucher-buffet-sieu-giam-gia/shoppe/</link>
-					<comments>https://galaway.github.io/buffetsieugiamgia/u-giam-gia-cua-chung-toi-voi-hang-loat-voucher-buffet-sieu-giam-gia/shoppe/#respond</comments>
+		<link>https://galaway.github.io/buffetsieugiamgia/buffet-sieu-giam-gia/shoppe/</link>
+					<comments>https://galaway.github.io/buffetsieugiamgia/buffet-sieu-giam-gia/shoppe/#respond</comments>
 		
 		<dc:creator><![CDATA[phamkhang]]></dc:creator>
 		<pubDate>Sun, 13 Jun 2021 11:33:18 +0000</pubDate>
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-image"><img src="https://cf.shopee.vn/file/7e5c532b6c28f406d2d8d291fb25c489" alt=""/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1196" height="896" src="https://galaway.github.io/buffetsieugiamgia/wp-content/uploads/2021/07/buffet-sieu-giam-gia.png" alt="" class="wp-image-371"/></figure>
 
 
 
@@ -238,7 +238,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/u-giam-gia-cua-chung-toi-voi-hang-loat-voucher-buffet-sieu-giam-gia/shoppe/feed/</wfw:commentRss>
+					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/buffet-sieu-giam-gia/shoppe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
