@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/buffer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://galaway.github.io/buffetsieugiamgia</link>
 	<description>Chúc bạn một ngày tốt lành</description>
-	<lastBuildDate>Sat, 19 Jun 2021 03:25:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 00:34:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,43 +20,192 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>buffer</title>
-		<link></link>
+		<title>Pullman Saigon Centre 5* &#8211; Buffet Tối Tôm Hùm, Hải Sản Đẳng Cấp Quốc Tế &#8211; Freelow Soft Drink &#8211; Đã VAT</title>
+		<link>https://galaway.github.io/buffetsieugiamgia/sanpham/pullman-saigon-centre-5-buffet-toi-tom-hum-hai-san-dang-cap-quoc-te-freelow-soft-drink-da-vat/</link>
+					<comments>https://galaway.github.io/buffetsieugiamgia/sanpham/pullman-saigon-centre-5-buffet-toi-tom-hum-hai-san-dang-cap-quoc-te-freelow-soft-drink-da-vat/#respond</comments>
 		
 		<dc:creator><![CDATA[phamkhang]]></dc:creator>
-		<pubDate>Sat, 19 Jun 2021 03:25:33 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 04 Jul 2021 00:34:39 +0000</pubDate>
+				<guid isPermaLink="false">https://galaway.github.io/buffetsieugiamgia/?post_type=product&#038;p=385</guid>
 
-					<description><![CDATA[Hiển thị tất cả 3 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo điểm đánh giá Mới nhất Thứ tự theo giá: thấp đến cao Thứ tự theo giá: cao xuống thấp Buffet Lẩu Chay Hongkong Buổi Tối 130,000&#160;&#8363; Thêm vào giỏ hàng Hotpot Story Hoàng Hoa [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-3 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 3 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-3">
-<li class="product type-product post-205 status-publish first onbackorder product_cat-buffer product_tag-jordan-3 product_tag-jordan-black has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://galaway.github.io/buffetsieugiamgia/wp-content/uploads/2021/06/363138-he-thong-korean-grill-buffet-trong-tuan-xeo-xeo-thit-nuong-chuan-vi-han-quoc.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Buffet Lẩu Chay Hongkong Buổi Tối</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>130,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/?add-to-cart=205" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="205" data-product_sku="455657-001" aria-label="Thêm &ldquo;Buffet Lẩu Chay Hongkong Buổi Tối&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-155 status-publish instock product_cat-buffer product_tag-air-jordan product_tag-jordan-1 product_tag-jordan-low has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-1-low-triple-white-553558-126/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="287" src="https://galaway.github.io/buffetsieugiamgia/wp-content/uploads/2021/06/363354-hotpot-story-hoang-hoa-tham-buffet-100-mon-tinh-hoa-05-vi-lau-chau-a-tron-ven-huong-vi-bo-hai-san.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Hotpot Story Hoàng Hoa Thám &#8211; Buffet 100 Món Tinh Hoa 05 Vị Lẩu Châu Á Trọn Vẹn Hương Vị Bò &#038; Hải Sản</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>5,500,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-1-low-triple-white-553558-126/?add-to-cart=155" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="155" data-product_sku="553558-126" aria-label="Thêm &ldquo;Hotpot Story Hoàng Hoa Thám - Buffet 100 Món Tinh Hoa 05 Vị Lẩu Châu Á Trọn Vẹn Hương Vị Bò &amp; Hải Sản&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-199 status-publish last instock product_cat-buffer product_tag-jordan-3 has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-	<a href="https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-retro-gs-hall-of-fame-398614-116/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://galaway.github.io/buffetsieugiamgia/wp-content/uploads/2021/06/363427-khach-san-sai-gon-3-sang-trong-buffet-toi-thu-6-7-oc-lau-khong-gioi-han-da-bao-gom-buffet-bia-nuoc-ngot.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Khách Sạn Sài Gòn 3* Sang Trọng &#8211; Buffet Tối Thứ 6, 7 Ốc &#038; Lẩu Không Giới Hạn &#8211; Đã Bao Gồm Buffet Bia, Nước Ngọt</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>650,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-retro-gs-hall-of-fame-398614-116/?add-to-cart=199" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="199" data-product_sku="398614-116" aria-label="Thêm &ldquo;Khách Sạn Sài Gòn 3* Sang Trọng - Buffet Tối Thứ 6, 7 Ốc &amp; Lẩu Không Giới Hạn - Đã Bao Gồm Buffet Bia, Nước Ngọt&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Điểm nổi bật &#8211; Buffet tối tôm hùm, hải sản thượng hạng &#8211; Extravagant Seafood Buffet đã bao gồm nước ngọt không giới hạn được tổ chức tại Food Connexion &#8211; Tầng 3, Pullman Saigon Centre 5*.  &#8211; Được quản lý bởi AccorHotels, một trong những chuyên gia hàng đầu trong ngành nhà hàng khách...]]></description>
+										<content:encoded><![CDATA[<h3 class="product-well-title">Điểm nổi bật</h3>
+<div class="wysiwyg">
+<p><strong>&#8211; Buffet tối tôm hùm, hải sản thượng hạng &#8211; Extravagant Seafood Buffet đã bao gồm nước ngọt không giới hạn được tổ chức tại</strong> <strong>Food Connexion &#8211; Tầng 3, Pullman Saigon Centre 5*. </strong></p>
+<p>&#8211; Được quản lý bởi AccorHotels, một trong những chuyên gia hàng đầu trong ngành nhà hàng khách sạn của thế giới, khách sạn Pullman Saigon Centre 5* nằm ở vị trí trung tâm Thành phố Hồ Chí Minh, gần chợ Bến Thành, khu vực Phạm Ngũ Lão, và gần nhiều điểm du lịch nổi tiếng, là địa chỉ lý tưởng để lưu trú và thưởng thức ẩm thực quốc tế.</p>
+<p>&#8211; Nhà hàng Food Connexion tọa lạc tại tầng 3 của khách sạn Pullman Saigon Centre với tầm nhìn cực đẹp. Food Connexion hội tụ hàng trăm món ăn từ Á sang Âu và vô số các món Việt truyền thống hấp dẫn.</p>
+<p>&#8211; Food Connexion mang đến cho bạn cảm giác như đang lạc vào một thiên đường ẩm thực với những quầy buffet đầy ắp thức ăn ngon hảo hạng, hương thơm mời gọi, trình bày bắt mắt, nhìn là muốn thưởng thức ngay.</p>
+<p>&#8211; Bếp trưởng người Ý nhiều năm kinh nghiệm, tay nghề cao, am hiểu nền ẩm thực thế giới, cùng đội ngũ nhân viên lịch sự với phong cách phục vụ chuyên nghiệp mang tầm vóc quốc tế.</p>
+</div>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/sanpham/pullman-saigon-centre-5-buffet-toi-tom-hum-hai-san-dang-cap-quoc-te-freelow-soft-drink-da-vat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>King BBQ Hoàng Hoa Thám &#8211; Đệ Nhất Vua Buffet Nướng Hơn 200 Món Ngon Hàn Quốc</title>
+		<link>https://galaway.github.io/buffetsieugiamgia/sanpham/king-bbq-hoang-hoa-tham-de-nhat-vua-buffet-nuong-hon-200-mon-ngon-han-quoc/</link>
+					<comments>https://galaway.github.io/buffetsieugiamgia/sanpham/king-bbq-hoang-hoa-tham-de-nhat-vua-buffet-nuong-hon-200-mon-ngon-han-quoc/#respond</comments>
+		
+		<dc:creator><![CDATA[phamkhang]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 00:32:11 +0000</pubDate>
+				<guid isPermaLink="false">https://galaway.github.io/buffetsieugiamgia/?post_type=product&#038;p=381</guid>
+
+					<description><![CDATA[&#8211; Sở hữu 24 nhà hàng trên cả nước, King BBQ – Vua Nướng Hàn Quốc là địa chỉ lý tưởng để bạn thưởng thức hơn 200 món Hàn đúng điệu qua bàn tay tài hoa của đội ngũ đầu bếp đến từ Hàn Quốc. &#8211; Đến với tiệc buffet...]]></description>
+										<content:encoded><![CDATA[<p>&#8211; Sở hữu 24 nhà hàng trên cả nước, King BBQ – Vua Nướng Hàn Quốc là địa chỉ lý tưởng để bạn thưởng thức hơn 200 món Hàn đúng điệu qua bàn tay tài hoa của đội ngũ đầu bếp đến từ Hàn Quốc.</p>
+<p>&#8211; Đến với tiệc buffet tại King BBQ, thực khách sẽ được trải nghiệm đầy đủ và trọn vẹn thế giới ẩm thực tinh tế, đầy màu sắc của xứ sở kim chi thông qua hơn 100 món ăn được làm từ những nguyên liệu tươi ngon và an toàn với công thức chế biến độc quyền. Điểm đặc biệt nhất là bạn sẽ được thưởng thức vô số các món nướng mang phong cách Hàn đúng điệu.</p>
+<p>&#8211; Nguyên liệu hảo hạng, được chế biến từ thịt bò Mỹ, heo, gà, hải sản tươi ngon.</p>
+<p>&#8211; Bí quyết của King BBQ – Vua Nướng Hàn Quốc nằm ở nước sốt tẩm ướp thịt được chế biến từ nguyên liệu hoàn toàn tự nhiên, theo công thức bí truyền, do Bếp trưởng Park Sung Min hơn 40 năm kinh nghiệm nghiên cứu và chế biến.</p>
+<p>&#8211; Món ăn được nướng trên hệ thống bếp than không khói hiện đại, các món nướng vừa lưu giữ vị ngọt thơm của các món thịt mà không hại cho sức khỏe.</p>
+<p>&#8211; Không gian nhà hàng King BBQ – Vua Nướng Hàn Quốc được thiết kế sang trọng, hiện đại, thích hợp để tụ họp gia đình, bạn bè hay đồng nghiệp thân quen.</p>
+<p>&#8211; Chi nhánh Hoàng Hoa Thám có khu vui chơi riêng cho trẻ em, phù hợp cho gia đình có con nhỏ.</p>
+<p>&#8211; Cung cách phục vụ chu đáo, chuyên nghiệp, mức giá hợp lý.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/sanpham/king-bbq-hoang-hoa-tham-de-nhat-vua-buffet-nuong-hon-200-mon-ngon-han-quoc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Buffet Lẩu Chay Hongkong Buổi Tối</title>
+		<link>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/</link>
+					<comments>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/#comments</comments>
+		
+		<dc:creator><![CDATA[phamkhang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 07:03:28 +0000</pubDate>
+				<guid isPermaLink="false">https://galaway.github.io/buffetsieugiamgia/?post_type=product&#038;p=205</guid>
+
+					<description><![CDATA[Điểm nổi bật &#8211; Nhà hàng Lẩu Buffet Chay HongKong mang phong cách mới lạ, độc đáo, rất phù hợp cho các buổi họp mặt gia đình, bạn bè, tiếp đối tác hay tiệc cuối năm. &#8211; Thực đơn buffet gồm 5 vị lẩu chay thượng hạng: Lẩu Tứ Xuyên cay nồng,...]]></description>
+										<content:encoded><![CDATA[<h3 class="product-well-title">Điểm nổi bật</h3>
+<div class="wysiwyg">
+<p>&#8211; Nhà hàng Lẩu Buffet Chay HongKong mang phong cách mới lạ, độc đáo, rất phù hợp cho các buổi họp mặt gia đình, bạn bè, tiếp đối tác hay tiệc cuối năm.</p>
+<p>&#8211; Thực đơn buffet gồm 5 vị lẩu chay thượng hạng: Lẩu Tứ Xuyên cay nồng, Lẩu hạt sen nấm hương, Lẩu thảo quả đen, Lẩu cà chua khoai tây, Lẩu sữa Hongkong.</p>
+<p>&#8211; Nước lẩu được hầm từ rau củ trong nhiều giờ liền cho hương vị ngọt lừ, thanh khiết.</p>
+<p>&#8211; Nguyên liệu ăn kèm đa dạng: 48 món nhúng, 9 loại nấm, 16 loại rau củ tươi ngon, chất lượng, được lựa chọn kỹ càng và hàng chục món khai vị, tráng miệng.</p>
+<p>&#8211; Nhà hàng chỉ sử dụng nguyên liệu ngọt tự nhiên như chà là, đường phèn vàng mật mía và hạt nêm rau củ cao cấp ngoại nhập để làm ngọt nước.</p>
+<p>&#8211; Đầu bếp từng làm việc ở nhiều nước khác nhau như Malaysia, HongKong và tỉnh Tứ Xuyên Trung Quốc sẽ trực tiếp chế biến, đảm bảo món ăn mang hương vị chính gốc.</p>
+<p>&#8211; Không gian rộng rãi, hiện đại, mang đậm dấu ấn Trung Hoa.</p>
+<p>&#8211; Phục vụ chuyên nghiệp, nhanh nhẹn, nhiệt tình, hiểu ý khách.</p>
+<h3 class="product-well-title">Điều kiện sử dụng</h3>
+<div class="wysiwyg">
+<p>&#8211; Thời hạn sử dụng voucher: <strong>từ 12/04/2021 đến 12/07/2021.</strong></p>
+<p>&#8211; Địa điểm áp dụng voucher: <strong>Nhà hàng Lẩu Buffet Chay HongKong:</strong> Số 290/27 Nam Kỳ Khởi Nghĩa, Quận 3. Điện thoại: 093 826 99 70.</p>
+<p><strong>&#8211; Áp dụng cho Buffet lẩu chay buổi tối tại Nhà hàng Lẩu Buffet Chay HongKong.</strong></p>
+<p>&#8211; Thời gian áp dụng: 17h &#8211; 21h30 tất cả các ngày trong tuần.</p>
+<p>&#8211; Riêng thứ 7, chủ nhật, lễ và các ngày: mùng 1, 14, 15, 30 và ngày 29 đối với tháng không có ngày 30 âm lịch: phụ thu 30,000đ/người.</p>
+<p>&#8211; Chính sách trẻ em:</p>
+<p>+ Dưới 1m: Miễn phí</p>
+<p>+ Từ 1m &#8211; dưới 1,3m: Phụ thu 50% giá vé (thanh toán tại nhà hàng)</p>
+<p>+ Từ 1,3m trở lên: Tính như giá người lớn</p>
+<p><strong>&#8211; Sử dụng 1 voucher/1 người/1 lần (không bù thêm tiền).</strong></p>
+<p>&#8211; Không giới hạn số voucher/hóa đơn.</p>
+<p>&#8211; Khách có thể mua nhiều voucher để sử dụng nhiều lần.</p>
+<p><strong>&#8211; Giá voucher đã bao gồm 10% thuế VAT, nhà hàng có trách nhiệm xuất hóa đơn khi khách hàng yêu cầu.</strong></p>
+<p>&#8211; Nhà hàng chịu trách nhiệm xuất hóa đơn tài chính theo giá bán voucher và giá trị sử dụng thực tế khi khách hàng yêu cầu.</p>
+<p>&#8211; Nếu khách hàng để thừa thức ăn, nhà hàng phụ thu 30,000đ/100gr.</p>
+<p>&#8211; Khách hàng vui lòng liên hệ 093 826 99 70 đặt chỗ trước khi đến để được phục vụ tốt nhất (Trong trường hợp khách hàng không đặt chỗ trước, nhà hàng sẽ không chịu trách nhiệm nếu có bất kỳ sai sót nào).</p>
+<p>&#8211; Khách hàng vui lòng đọc kỹ điều kiện trên voucher trước khi sử dụng.</p>
+<p>&#8211; Voucher không có giá trị quy đổi thành tiền mặt, không trả lại tiền thừa.</p>
+<p>&#8211; Thanh toán online nhận ngay voucher điện tử.</p>
+<p>&#8211; Thanh toán trả sau nhận voucher giấy miễn phí cho đơn hàng từ 150.000vnđ trở lên, đơn hàng dưới 150.000vnđ thu phí giao hàng 9.000vnđ.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-black-history-month-455657-001/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Khách Sạn Sài Gòn 3* Sang Trọng &#8211; Buffet Tối Thứ 6, 7 Ốc &#038; Lẩu Không Giới Hạn &#8211; Đã Bao Gồm Buffet Bia, Nước Ngọt</title>
+		<link>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-retro-gs-hall-of-fame-398614-116/</link>
+					<comments>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-retro-gs-hall-of-fame-398614-116/#respond</comments>
+		
+		<dc:creator><![CDATA[phamkhang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:57:14 +0000</pubDate>
+				<guid isPermaLink="false">https://galaway.github.io/buffetsieugiamgia/?post_type=product&#038;p=199</guid>
+
+					<description><![CDATA[Điểm nổi bật &#8211; Khách sạn Sài Gòn chuẩn 3 sao quốc tế, tọa lạc ở vị trí đắc địa ngay trung tâm thương mại và du lịch của Thành phố Hồ Chí Minh, là lựa chọn lý tưởng cho khách du lịch và khách thương nhân khi muốn trải...]]></description>
+										<content:encoded><![CDATA[<h3 class="product-well-title">Điểm nổi bật</h3>
+<div class="wysiwyg">
+<p>&#8211; Khách sạn Sài Gòn chuẩn 3 sao quốc tế, tọa lạc ở vị trí đắc địa ngay trung tâm thương mại và du lịch của Thành phố Hồ Chí Minh, là lựa chọn lý tưởng cho khách du lịch và khách thương nhân khi muốn trải nghiệm cuộc sống sôi động của Sài Gòn.</p>
+<p>&#8211; Tọa lạc ở tầng 9 của Khách sạn Sài Gòn, Nhà hàng Sài Gòn Đông Phương có tầm nhìn ra khung cảnh lãng mạn của sông Sài Gòn và sức chứa đến 250 khách, là địa điểm ấm cúng và thanh lịch cho các buổi gặp mặt, tiệc chiêu đãi, thư giãn khi ăn sáng, ăn trưa hoặc ăn tối.</p>
+<p>&#8211; Với những món ăn được nấu theo kiểu Âu, Á, đặc biệt là các món ngon đặc trưng của Sài Gòn, Nhà hàng Sài Gòn Đông Phương sẽ thỏa mãn niềm đam mê ẩm thực của bạn.</p>
+<p>&#8211; Nhân viên phục vụ chuyên nghiệp, chu đáo.</p>
+<p><strong>&#8211; Áp dụng cho: Buffet Tối Thứ 6, 7 Ốc &amp; Lẩu Không Giới Hạn.</strong></p>
+<p><strong>1. Menu 294++ (đã gồm VAT &amp; phí phục vụ, chưa gồm nước uống) giá 339.000đ ưu đãi giảm chỉ còn 289.000đ.</strong></p>
+<p><strong>2. Menu 354++ (đã gồm buffet bia, nước ngọt, nước suối, VAT &amp; phí phục vụ) giá 409.000đ ưu đãi giảm chỉ còn 349.000đ.</strong></p>
+<p><strong>&#8211; Miễn phí tráng miệng: trái cây, rau câu, chè.</strong></p>
+<h3 class="product-well-title">Điều kiện sử dụng</h3>
+<div class="wysiwyg">
+<p>&#8211; Thời hạn sử dụng voucher: <strong>từ 17/05/2021 đến 17/08/2021.</strong></p>
+<p>&#8211; Địa chỉ sử dụng voucher: <strong>Khách sạn Sài Gòn 3*</strong> – Tầng 9 – 41 – 47 Đông Du, Phường Bến Nghé, Quận 1, Tp.HCM. Điện thoại: 0938 988 774 &#8211; (028) 3829 9734.</p>
+<p><strong>&#8211; Áp dụng cho: Buffet Tối Thứ 6, 7 Ốc &amp; Lẩu Không Giới Hạn. Tham khảo Menu Buffet <a href="https://oms.hotdeal.vn/images/editors/sources/000360222722/Menu.pdf" target="_blank" rel="nofollow noopener">tại đây</a>.</strong></p>
+<p><strong>1. Menu 294++ (đã gồm VAT &amp; phí phục vụ, chưa gồm nước uống) giá 339.000đ ưu đãi giảm chỉ còn 289.000đ.</strong></p>
+<p><strong>2. Menu 354++ (đã gồm buffet bia, nước ngọt, nước suối, VAT &amp; phí phục vụ) giá 409.000đ ưu đãi giảm chỉ còn 349.000đ.</strong></p>
+<p><strong>&#8211; Miễn phí tráng miệng: trái cây, rau câu, chè.</strong></p>
+<p>&#8211; Thời gian áp dụng: 17h30 – 22h thứ 6, 7 hàng tuần. Không áp dụng lễ.</p>
+<p><strong>&#8211; Sử dụng 01 voucher/ 01 người lớn (không bù tiền).</strong></p>
+<p>&#8211; Không giới hạn số lượng voucher/ hóa đơn.</p>
+<p>&#8211; Chính sách cho trẻ em:</p>
+<p>+ Dưới 1.3m: Miễn phí.</p>
+<p>+ Từ 1.3m – dưới 1.5m: Mua vé tại nhà hàng 150.000đ/ 01 trẻ &#8211; Miễn phí nước ngọt không giới hạn (Đã bao gồm thuế và phí).</p>
+<p>+ Từ 1.5m trở lên: Mua vé như người lớn.</p>
+<p>&#8211; Không áp dụng mang về.</p>
+<p><strong>&#8211; Giá đã bao gồm 10% VAT và 5% phí phục vụ. Nhà hàng chịu trách nhiệm xuất hóa đơn khi khách hàng yêu cầu.</strong></p>
+<p>&#8211; Mỗi khách hàng mua nhiều phiếu đển sử dụng, tặng người thân hoặc bạn bè.</p>
+<p>&#8211; Khách hàng vui lòng đặt chỗ trước khi đến để được phục vụ tốt nhất. Nhà hàng không bảo đảm chỗ ngồi cho khách nếu không đặt chỗ. Hotline: 0938 988 774 &#8211; (028) 3829 9734.</p>
+<p>&#8211; Không áp dụng đồng thời với các chương trình khuyến mãi khác.</p>
+<p>&#8211; Phiếu không có giá trị quy đổi thành tiền mặt, không trả lại tiền thừa.</p>
+<p>&#8211; Thanh toán online nhận ngay voucher điện tử.</p>
+<p>&#8211; Thanh toán trả sau nhận voucher giấy miễn phí cho đơn hàng từ 150.000vnđ trở lên, đơn hàng dưới 150.000vnđ thu phí giao hàng 9.000vnđ.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-3-retro-gs-hall-of-fame-398614-116/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hotpot Story Hoàng Hoa Thám &#8211; Buffet 100 Món Tinh Hoa 05 Vị Lẩu Châu Á Trọn Vẹn Hương Vị Bò &#038; Hải Sản</title>
+		<link>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-1-low-triple-white-553558-126/</link>
+					<comments>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-1-low-triple-white-553558-126/#respond</comments>
+		
+		<dc:creator><![CDATA[phamkhang]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 04:16:47 +0000</pubDate>
+				<guid isPermaLink="false">https://galaway.github.io/buffetsieugiamgia/?post_type=product&#038;p=155</guid>
+
+					<description><![CDATA[Điểm nổi bật &#8211; Hotpot Story là chuỗi nhà hàng buffet lẩu Thái – Hàn – Trung Hoa phục vụ các loại lẩu đặc trưng từ các nước khác nhau trên thế giới mang tinh hoa Lẩu Quốc Tế đến với thực khách Việt Nam. &#8211; Hotpot Story được phát...]]></description>
+										<content:encoded><![CDATA[<div class="grid__item large--one-third medium--one-whole small--hide">
+<h3 class="product-well-title">Điểm nổi bật</h3>
+<div class="wysiwyg">
+<p>&#8211; Hotpot Story là chuỗi nhà hàng buffet lẩu Thái – Hàn – Trung Hoa phục vụ các loại lẩu đặc trưng từ các nước khác nhau trên thế giới mang tinh hoa Lẩu Quốc Tế đến với thực khách Việt Nam.</p>
+<p>&#8211; Hotpot Story được phát triển bởi Công ty Redsun ITI (Công ty sở hữu các thương hiệu ẩm thực nổi tiếng trong nước và quốc tế như King BBQ, King BBQ Buffet, Tasaki BBQ, ThaiExpress, Seoul Garden&#8230;).</p>
+<p>&#8211; Thực đơn của Hotpot Story vô cùng phong phú với 3 vị lẩu tinh túy từ Thái Lan, Hàn Quốc, Trung Hoa bao gồm: nước lẩu Tomyum, Bulgogi và Tứ Xuyên.</p>
+<p>&#8211; Thực đơn trên quầy tự chọn có hơn 200 món ăn đa dạng được thay đổi theo ngày bao gồm các món khai vị, món nóng, tráng miệng&#8230;</p>
+<p>&#8211; Nguồn nguyên liệu chất lượng, tươi ngon, các loại rau nhập từ Đà Lạt, các loại thịt bò thượng hạng được nhập khẩu 100%.</p>
+<p>&#8211; Hotpot Story Hoàng Hoa Thám là chi nhánh mới nhất tại TP Hồ Chí Minh của Hệ thống Hotpot Story Việt Nam.</p>
+<p>&#8211; Không gian nhà hàng thiết kế hiện đại, trẻ trung, sang trọng với gam màu tinh tế, thích hợp với các cuộc gặp gỡ bạn bè, đồng nghiệp, gia đình quây quần bên nhau và trải nghiệm ẩm thực.</p>
+<p>&#8211; Có khu vui chơi riêng cho trẻ em, phù hợp cho gia đình có con nhỏ.</p>
+<p><strong>&#8211; Voucher áp dụng cho: Buffet tinh hoa 05 vị lẩu châu Á trọn vẹn tinh túy từ bò Mỹ &amp; hải sản.</strong></p>
+<p><strong>1. Menu 239.000đ ưu đãi chỉ còn 199.000đ với hơn 13 món nhúng lẩu &amp; hải sản như: Nạc vai bò Úc, Bạch tuộc, Cá điêu hồng phi lê…</strong></p>
+<p><strong>2. Menu 279.000đ ưu đãi chỉ còn 235.000đ với hơn 22 món nhúng lẩu &amp; hải sản cao cấp như: Bò núi lửa, Lưỡi bò, Tôm sú, Chả cá Nhật nhân trứng cá hồi, Mai ghẹ hoàng bào, Paste mực…</strong></p>
+</div>
+<div>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="grid__item large--two-thirds medium--one-whole small--hide"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://galaway.github.io/buffetsieugiamgia/sanpham/giay-nike-air-jordan-1-low-triple-white-553558-126/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

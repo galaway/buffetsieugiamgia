@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: King BBQ Hoàng Hoa Thám &#8211; Đệ Nhất Vua Buffet Nướng Hơn 200 Món Ngon Hàn Quốc	</title>
+	<atom:link href="http://localhost/myproject/wordpress/sanpham/king-bbq-hoang-hoa-tham-de-nhat-vua-buffet-nuong-hon-200-mon-ngon-han-quoc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galaway.github.io/buffetsieugiamgia/sanpham/king-bbq-hoang-hoa-tham-de-nhat-vua-buffet-nuong-hon-200-mon-ngon-han-quoc/</link>
+	<description>Chúc bạn một ngày tốt lành</description>
+	<lastBuildDate>Sun, 04 Jul 2021 00:32:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
