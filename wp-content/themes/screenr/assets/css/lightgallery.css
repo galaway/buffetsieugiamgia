@@ -607,7 +607,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   transition: transform 0.18s linear 0s, visibility 0s linear 0.5s, opacity 0.18s linear 0s, -webkit-transform 0.18s linear 0s;
 }
 .lg-outer .lg-dropdown:after {
-  content: ;
+  content: "";
   display: block;
   height: 0;
   width: 0;
@@ -689,7 +689,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 .group:before, .group:after {
   display: table;
-  content: ;
+  content: "";
   line-height: 0;
 }
 
@@ -774,7 +774,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   height: 100%;
 }
 .lg-outer .lg-item:before, .lg-outer .lg-img-wrap:before {
-  content: ;
+  content: "";
   display: inline-block;
   height: 50%;
   width: 1px;

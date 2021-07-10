@@ -10,7 +10,7 @@
     border-radius: 32px;
     border-right-color: transparent !important;
     border-top-color: transparent !important;
-    content: ;
+    content: "";
     display: block;
     height: 16px;
     top: 50%;
@@ -67,7 +67,7 @@ p#calc_shipping_city_field span.select2.select2-container {
     width: 100% !important;
 }
 .woocommerce-shipping-fields:after {
-    content: ;
+    content: "";
     display: table;
     clear: both;
 }
